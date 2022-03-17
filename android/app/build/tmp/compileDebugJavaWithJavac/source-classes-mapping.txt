@@ -1,0 +1,15 @@
+com/averydennison/adcert2/MainActivity.java
+ com.averydennison.adcert2.MainActivity
+ com.averydennison.adcert2.MainActivity$1
+com/averydennison/adcert2/ReactNativeFlipper.java
+ com.averydennison.adcert2.ReactNativeFlipper
+ com.averydennison.adcert2.ReactNativeFlipper$1
+ com.averydennison.adcert2.ReactNativeFlipper$2
+ com.averydennison.adcert2.ReactNativeFlipper$2$1
+com/averydennison/adcert2/MainApplication.java
+ com.averydennison.adcert2.MainApplication
+ com.averydennison.adcert2.MainApplication$1
+com/averydennison/adcert2/BuildConfig.java
+ com.averydennison.adcert2.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
